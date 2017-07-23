@@ -1,11 +1,12 @@
 # GrootSimulator-PyQt5
-"I'm Groot" - GUI application
+"I'm Groot" - A GUI application
 
 # Requirements
 * Python3
 * PyQt5
 
 # How to use
-* Git clone https://github.com/kannan95/GrootSimulator-PyQt5
-* cd GrootSimulator-PyQt5
+* Download zip -  https://github.com/kannan95/GrootSimulator-PyQt5
+* Unzip the file
+* cd ~/Downloads/GrootSimulator-PyQt5-master
 * python3 main.py
